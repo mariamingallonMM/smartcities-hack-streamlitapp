@@ -1,31 +1,29 @@
-# Insert Python Repository Name Here
+# MyWay SmartCities Hackathon 2021
+
+TODO: replace picture ;)
 
 ![Python Logo](./python_logo.png)
+
 ## Description
-Insert repository description here. Please ensure that a prospective user is able to clearly understand the purpose of this repository from this description.
+Streamlit demo app for SmartCities Hackathon 2021.
+
+More details to follow!
 
 ## Repository Ownership
 * **Practice**: INSERT HERE
 * **Sector**: - INSERT HERE
 * **Original Author(s)**: - INSERT HERE
 * **Contact Details for Current Repository Owner(s)**: - INSERT HERE
-## Installation Instructions
-In order to successfully run the code in this respository, it is recommended that you create a virtual environment and install the required packages from the requirements.txt file provided. This can be done either through pip or conda Python package managers in the appropriate command line.
+
+## View the live app
+
+Check out the live app at [share.streamlit.io/mariamingallonmm/smartcities-hack-streamlitapp](https://share.streamlit.io/mariamingallonmm/smartcities-hack-streamlitapp). This demo is hosted with Streamlit sharing.
+
+
+## Running the Code locally
 
 ```
-# For pip
-> python -m venv .\venv
-> venv\Scripts\activate
-> pip install -r requirements.txt
-
-# For conda
-> conda create --name venv --file requirements.txt
-> conda activate
-```
-
-## Running the Code
-Insert instructions on how to run the code here.
-
-```
+pip install --upgrade streamlit
+streamlit run https://share.streamlit.io/mariamingallonmm/smartcities-hack-streamlitapp/master/streamlit_app.py
 
 ```
